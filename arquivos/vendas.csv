@@ -1,0 +1,1001 @@
+id_pessoa,nome_produto,quantidade
+11,Celular,69
+82,Água,55
+12,Vestido,78
+29,Vestido,93
+85,Água c/ gás,24
+37,Camiseta,35
+70,Feijão,92
+59,Meias,22
+37,Saia,53
+7,Colar,43
+14,Tv,87
+12,Anel de Prata,16
+41,Suco,98
+42,Anel de Prata,66
+39,Brincos,100
+21,Água,93
+82,Pulseira,46
+18,Casaco,20
+82,Tv,24
+51,Anel de Prata,50
+62,Anel de Prata,100
+55,Casaco,79
+59,Macarrão,91
+73,Água c/ gás,21
+34,Vestido,59
+8,Anel de Prata,1
+16,Meias,57
+35,Pulseira,81
+99,Suco,53
+19,Anel de Ouro,28
+62,Feijão,22
+50,Meias,12
+14,Suco,43
+85,Refrigerante,34
+73,Vestido,39
+10,Água,28
+39,Saia,11
+27,Limonada,42
+3,Pão,44
+75,Vestido,17
+98,Vestido,6
+64,Caixa de som,73
+62,Macarrão,29
+66,Meias,96
+66,Tablet,49
+51,Meias,32
+8,Sal,80
+64,Computador,25
+19,Tablet,44
+93,Saia,70
+100,Colar,22
+16,Caixa de som,68
+27,Colar,90
+12,Brincos,25
+93,Pulseira,100
+61,Macarrão,72
+98,Pão,31
+5,Pulseira,17
+74,Feijão,23
+31,Brincos,30
+11,Feijão,31
+10,Pulseira,44
+20,Tablet,78
+42,Limonada,16
+36,Anel de Prata,26
+92,Água c/ gás,79
+47,Macarrão,72
+80,Tablet,6
+26,Colar,50
+39,Leite,17
+91,Casaco,20
+21,Sal,42
+27,Casaco,41
+6,Camiseta,61
+85,Pão,43
+20,Pulseira,56
+99,Refrigerante,81
+68,Macarrão,47
+67,Caixa de som,42
+7,Brincos,61
+60,Colar,29
+90,Anel de Ouro,68
+13,Pão,84
+20,Água,63
+98,Refrigerante,43
+85,Tablet,27
+78,Anel de Ouro,34
+5,Tablet,21
+60,Celular,37
+79,Vestido,83
+97,Suco,22
+19,Limonada,90
+5,Pulseira,25
+48,Celular,45
+30,Anel de Ouro,100
+60,Macarrão,38
+80,Leite,48
+12,Casaco,78
+74,Vestido,75
+8,Leite,92
+29,Pão,37
+31,Tv,22
+19,Celular,4
+10,Leite,13
+93,Tablet,31
+87,Brincos,68
+2,Tablet,26
+39,Feijão,25
+87,Refrigerante,63
+77,Tablet,88
+16,Refrigerante,95
+61,Vestido,88
+12,Celular,58
+9,Vestido,48
+95,Feijão,41
+32,Camiseta,49
+52,Caixa de som,56
+75,Meias,38
+53,Suco,91
+45,Anel de Prata,98
+82,Limonada,79
+68,Macarrão,76
+43,Refrigerante,98
+18,Água,53
+48,Celular,20
+56,Casaco,17
+91,Saia,32
+24,Saia,41
+21,Pão,61
+94,Celular,46
+40,Suco,20
+48,Anel de Prata,30
+75,Colar,54
+25,Tv,39
+15,Caixa de som,52
+31,Anel de Ouro,72
+40,Anel de Prata,42
+97,Caixa de som,17
+77,Casaco,68
+63,Brincos,47
+75,Saia,74
+89,Suco,11
+75,Saia,2
+23,Saia,1
+18,Pão,19
+87,Tablet,1
+20,Brincos,11
+24,Feijão,12
+54,Saia,72
+48,Tv,64
+46,Saia,86
+4,Celular,17
+31,Tablet,23
+75,Pulseira,66
+40,Macarrão,45
+8,Pão,18
+21,Brincos,19
+4,Limonada,4
+29,Colar,65
+70,Sal,56
+31,Caixa de som,62
+40,Pão,23
+92,Computador,27
+17,Leite,34
+2,Pulseira,73
+12,Limonada,17
+20,Pão,40
+22,Leite,10
+22,Saia,34
+23,Tv,29
+8,Saia,72
+90,Colar,82
+45,Casaco,20
+72,Limonada,47
+64,Colar,23
+8,Anel de Ouro,50
+100,Computador,60
+45,Suco,1
+69,Vestido,39
+16,Limonada,61
+69,Sal,13
+57,Computador,27
+26,Colar,26
+59,Caixa de som,39
+89,Pão,37
+77,Tv,95
+42,Casaco,71
+96,Tablet,19
+22,Tv,58
+29,Meias,5
+48,Leite,5
+57,Limonada,85
+12,Meias,81
+5,Tablet,44
+43,Brincos,96
+59,Tv,73
+82,Anel de Prata,47
+74,Anel de Ouro,15
+27,Meias,95
+3,Tv,43
+39,Pão,74
+99,Pão,63
+54,Tv,76
+94,Sal,55
+56,Brincos,66
+33,Colar,48
+3,Macarrão,92
+53,Meias,35
+89,Colar,78
+79,Água c/ gás,40
+12,Sal,25
+69,Meias,76
+67,Vestido,70
+80,Camiseta,50
+52,Celular,67
+69,Pão,72
+97,Anel de Prata,17
+76,Refrigerante,1
+81,Celular,58
+63,Água c/ gás,99
+18,Caixa de som,5
+60,Camiseta,78
+72,Limonada,61
+63,Celular,53
+1,Suco,94
+72,Pão,63
+97,Meias,83
+17,Casaco,57
+36,Caixa de som,14
+49,Celular,12
+72,Camiseta,63
+13,Leite,22
+58,Casaco,98
+1,Brincos,50
+97,Pulseira,14
+17,Água,48
+4,Camiseta,91
+61,Feijão,82
+4,Celular,38
+2,Meias,55
+96,Suco,52
+64,Suco,79
+20,Pão,26
+63,Sal,81
+36,Pulseira,61
+60,Sal,40
+74,Vestido,24
+83,Celular,97
+5,Água,78
+1,Pulseira,79
+34,Água c/ gás,35
+70,Pulseira,26
+93,Pão,74
+46,Computador,23
+94,Vestido,35
+7,Anel de Ouro,30
+69,Feijão,47
+21,Água,40
+64,Casaco,2
+91,Água,36
+5,Caixa de som,82
+97,Limonada,13
+4,Limonada,43
+21,Colar,9
+93,Anel de Ouro,32
+28,Leite,36
+78,Água,37
+95,Brincos,27
+32,Pulseira,1
+30,Suco,60
+81,Colar,18
+73,Macarrão,31
+58,Pão,6
+37,Anel de Prata,3
+45,Feijão,10
+17,Refrigerante,75
+42,Pulseira,86
+79,Água,25
+3,Tv,2
+83,Leite,54
+87,Brincos,45
+77,Água,58
+51,Anel de Prata,6
+91,Colar,19
+18,Leite,28
+89,Colar,70
+1,Refrigerante,16
+76,Camiseta,29
+51,Leite,70
+15,Leite,73
+56,Anel de Prata,27
+73,Caixa de som,79
+38,Computador,93
+96,Tv,37
+24,Suco,2
+12,Pão,41
+76,Sal,3
+31,Brincos,25
+8,Saia,78
+75,Casaco,54
+48,Tablet,97
+67,Leite,14
+73,Anel de Ouro,39
+28,Pulseira,40
+63,Limonada,62
+66,Celular,9
+13,Sal,49
+68,Sal,50
+73,Feijão,32
+56,Feijão,81
+96,Tv,83
+91,Leite,42
+14,Suco,16
+10,Brincos,83
+75,Refrigerante,14
+66,Anel de Ouro,38
+20,Pulseira,85
+51,Vestido,10
+1,Sal,87
+25,Macarrão,86
+41,Anel de Ouro,56
+28,Anel de Ouro,55
+32,Pulseira,98
+39,Suco,79
+44,Limonada,36
+59,Refrigerante,99
+20,Camiseta,71
+21,Computador,36
+15,Camiseta,58
+52,Camiseta,58
+95,Limonada,94
+61,Camiseta,55
+77,Refrigerante,93
+63,Refrigerante,4
+39,Tablet,73
+86,Suco,46
+6,Limonada,25
+100,Brincos,45
+34,Refrigerante,45
+5,Tv,1
+52,Água c/ gás,29
+77,Tv,4
+13,Casaco,69
+57,Suco,18
+14,Camiseta,80
+23,Pão,62
+58,Tv,89
+11,Casaco,86
+56,Vestido,22
+51,Computador,11
+98,Pulseira,6
+30,Água,8
+10,Macarrão,58
+20,Suco,97
+53,Camiseta,41
+25,Suco,45
+63,Pão,92
+35,Macarrão,75
+44,Pulseira,69
+6,Água c/ gás,92
+55,Leite,79
+10,Água,46
+24,Anel de Ouro,37
+52,Macarrão,43
+48,Água c/ gás,37
+91,Anel de Ouro,59
+40,Macarrão,74
+87,Vestido,59
+95,Meias,36
+83,Suco,30
+82,Celular,26
+69,Pulseira,59
+41,Pão,99
+59,Computador,100
+70,Casaco,65
+23,Feijão,60
+90,Pulseira,6
+78,Suco,77
+34,Pão,40
+16,Brincos,84
+54,Casaco,83
+14,Vestido,76
+25,Água,72
+62,Tablet,18
+28,Água c/ gás,49
+31,Brincos,53
+81,Colar,71
+86,Computador,99
+73,Suco,90
+100,Colar,26
+1,Tv,76
+87,Sal,30
+97,Água,97
+72,Refrigerante,19
+2,Brincos,11
+86,Água,59
+58,Camiseta,17
+90,Meias,22
+33,Macarrão,53
+96,Tv,44
+80,Sal,28
+45,Meias,44
+74,Pão,90
+45,Refrigerante,79
+86,Celular,32
+48,Água c/ gás,55
+18,Macarrão,76
+62,Vestido,50
+43,Camiseta,33
+76,Tablet,21
+11,Anel de Prata,87
+30,Água,65
+43,Pão,70
+97,Vestido,16
+28,Macarrão,10
+39,Colar,99
+94,Feijão,66
+77,Limonada,47
+72,Caixa de som,1
+70,Casaco,32
+13,Macarrão,47
+43,Refrigerante,60
+62,Pão,24
+62,Pulseira,88
+89,Casaco,95
+26,Colar,4
+67,Pão,51
+46,Celular,72
+27,Vestido,37
+6,Refrigerante,42
+36,Pulseira,92
+81,Refrigerante,3
+88,Vestido,36
+17,Limonada,29
+76,Saia,99
+9,Limonada,26
+74,Tablet,72
+80,Caixa de som,21
+59,Leite,95
+81,Suco,29
+36,Feijão,61
+53,Caixa de som,85
+12,Computador,3
+82,Anel de Ouro,46
+84,Leite,65
+16,Macarrão,39
+51,Anel de Prata,69
+86,Macarrão,67
+21,Água,19
+25,Pão,77
+56,Vestido,76
+55,Casaco,46
+54,Leite,47
+43,Refrigerante,90
+75,Feijão,68
+25,Sal,28
+37,Limonada,89
+28,Casaco,3
+20,Sal,23
+79,Macarrão,100
+64,Colar,34
+88,Anel de Prata,54
+71,Pulseira,59
+44,Colar,47
+35,Casaco,87
+11,Anel de Ouro,14
+91,Macarrão,43
+62,Refrigerante,68
+46,Meias,74
+26,Anel de Ouro,86
+35,Caixa de som,99
+63,Anel de Ouro,13
+61,Feijão,81
+99,Anel de Ouro,25
+25,Água c/ gás,49
+73,Celular,26
+1,Água c/ gás,64
+66,Água,63
+10,Pulseira,20
+2,Anel de Ouro,16
+71,Pão,4
+28,Colar,83
+45,Camiseta,85
+18,Camiseta,17
+31,Celular,96
+10,Saia,98
+15,Caixa de som,100
+96,Limonada,58
+33,Casaco,32
+44,Brincos,86
+44,Vestido,91
+32,Sal,34
+62,Água c/ gás,94
+21,Computador,5
+2,Saia,27
+44,Anel de Prata,58
+89,Tv,34
+6,Vestido,87
+80,Feijão,99
+3,Suco,76
+35,Saia,14
+1,Tablet,49
+39,Saia,95
+45,Pão,66
+59,Anel de Prata,58
+10,Colar,69
+29,Leite,28
+38,Tablet,48
+67,Refrigerante,45
+83,Brincos,27
+94,Feijão,89
+59,Brincos,70
+80,Colar,29
+73,Refrigerante,27
+69,Tablet,81
+80,Suco,60
+71,Tablet,98
+44,Suco,14
+40,Meias,3
+68,Caixa de som,58
+92,Camiseta,93
+30,Água,39
+35,Limonada,54
+3,Tablet,89
+71,Vestido,57
+98,Pão,84
+89,Suco,24
+32,Suco,41
+29,Feijão,75
+71,Sal,40
+61,Brincos,25
+50,Anel de Prata,42
+71,Tablet,30
+31,Anel de Prata,46
+43,Tablet,51
+52,Caixa de som,90
+62,Celular,77
+25,Brincos,8
+69,Limonada,12
+92,Suco,23
+99,Caixa de som,80
+1,Pulseira,10
+30,Caixa de som,79
+52,Refrigerante,27
+91,Macarrão,90
+29,Água,49
+48,Vestido,75
+72,Macarrão,66
+64,Vestido,51
+50,Colar,68
+91,Limonada,73
+92,Limonada,10
+56,Brincos,21
+25,Leite,16
+95,Água c/ gás,72
+20,Vestido,91
+46,Água c/ gás,65
+17,Pão,48
+38,Feijão,86
+1,Feijão,60
+65,Feijão,34
+63,Pão,79
+34,Celular,99
+18,Macarrão,54
+43,Tv,82
+78,Macarrão,80
+61,Casaco,92
+18,Anel de Ouro,36
+66,Vestido,74
+2,Pão,92
+31,Computador,19
+60,Macarrão,81
+28,Anel de Ouro,29
+42,Feijão,26
+6,Pão,90
+29,Pão,96
+26,Computador,26
+25,Brincos,90
+53,Computador,87
+68,Leite,74
+97,Refrigerante,33
+6,Camiseta,56
+1,Brincos,55
+1,Vestido,85
+6,Celular,5
+21,Camiseta,94
+52,Leite,85
+43,Computador,60
+17,Vestido,10
+12,Anel de Prata,77
+43,Vestido,31
+40,Anel de Ouro,53
+75,Brincos,63
+56,Tv,30
+27,Sal,77
+32,Meias,87
+11,Tv,71
+45,Sal,54
+7,Pão,24
+29,Camiseta,78
+73,Água,4
+11,Pão,56
+72,Leite,89
+95,Refrigerante,35
+44,Sal,81
+74,Limonada,75
+85,Brincos,9
+67,Computador,29
+100,Tablet,59
+39,Leite,8
+81,Pulseira,38
+86,Anel de Prata,42
+34,Computador,6
+4,Macarrão,61
+29,Refrigerante,38
+69,Anel de Prata,68
+94,Computador,88
+11,Vestido,88
+50,Saia,91
+75,Computador,65
+91,Colar,96
+68,Limonada,48
+12,Computador,84
+16,Sal,63
+29,Limonada,86
+79,Sal,60
+100,Macarrão,82
+8,Anel de Ouro,82
+11,Vestido,16
+27,Água c/ gás,37
+41,Camiseta,32
+49,Pão,48
+76,Leite,18
+77,Anel de Prata,30
+34,Caixa de som,79
+52,Colar,86
+59,Leite,53
+77,Colar,26
+93,Suco,97
+28,Anel de Prata,95
+95,Leite,59
+15,Meias,84
+48,Casaco,96
+31,Meias,83
+92,Sal,51
+83,Tv,27
+50,Meias,46
+75,Caixa de som,6
+78,Casaco,78
+57,Anel de Ouro,92
+32,Limonada,71
+40,Água,55
+53,Camiseta,63
+100,Colar,46
+16,Limonada,15
+93,Casaco,81
+86,Saia,29
+19,Suco,5
+54,Anel de Ouro,92
+24,Macarrão,8
+90,Pão,14
+65,Pulseira,42
+40,Computador,49
+90,Limonada,57
+87,Feijão,63
+45,Anel de Prata,7
+66,Caixa de som,41
+76,Pão,63
+9,Computador,96
+31,Celular,45
+43,Meias,30
+46,Colar,25
+37,Anel de Ouro,14
+54,Celular,9
+30,Computador,13
+40,Anel de Prata,2
+93,Brincos,76
+34,Tablet,40
+93,Saia,26
+25,Pão,60
+23,Água c/ gás,53
+85,Anel de Ouro,33
+54,Celular,30
+68,Colar,8
+53,Suco,57
+41,Pulseira,1
+17,Vestido,2
+85,Vestido,81
+34,Meias,99
+70,Limonada,34
+73,Sal,55
+55,Camiseta,70
+14,Brincos,8
+51,Casaco,23
+16,Feijão,8
+93,Sal,81
+100,Água c/ gás,10
+42,Sal,34
+52,Refrigerante,78
+74,Brincos,42
+78,Caixa de som,75
+24,Leite,30
+58,Leite,39
+83,Celular,72
+78,Refrigerante,37
+49,Água c/ gás,68
+49,Camiseta,32
+46,Feijão,11
+53,Tablet,53
+71,Tablet,93
+31,Pulseira,77
+38,Celular,67
+85,Anel de Prata,71
+4,Caixa de som,92
+54,Anel de Ouro,18
+18,Sal,62
+1,Meias,34
+83,Tablet,61
+20,Anel de Prata,86
+80,Suco,19
+9,Macarrão,91
+98,Vestido,23
+61,Feijão,93
+94,Macarrão,15
+7,Refrigerante,8
+4,Macarrão,70
+80,Sal,91
+36,Água c/ gás,60
+38,Sal,22
+74,Pulseira,93
+99,Limonada,71
+45,Macarrão,75
+85,Pulseira,48
+61,Pão,87
+29,Meias,56
+82,Saia,67
+21,Água,19
+32,Pão,39
+54,Pão,50
+61,Pão,13
+67,Anel de Ouro,54
+22,Meias,72
+35,Saia,6
+71,Meias,35
+85,Leite,67
+25,Meias,29
+34,Meias,6
+30,Tablet,46
+54,Macarrão,83
+61,Colar,34
+35,Camiseta,33
+45,Água c/ gás,74
+21,Água,61
+99,Colar,27
+31,Leite,56
+42,Água c/ gás,54
+18,Casaco,6
+5,Casaco,90
+28,Macarrão,41
+54,Leite,79
+37,Camiseta,40
+97,Vestido,22
+48,Água,35
+69,Meias,82
+39,Pão,49
+43,Pão,30
+42,Caixa de som,91
+80,Feijão,4
+95,Computador,14
+80,Água,36
+41,Vestido,19
+94,Camiseta,79
+5,Tablet,25
+84,Celular,95
+59,Água,39
+28,Caixa de som,43
+30,Pão,79
+16,Colar,26
+61,Anel de Prata,48
+63,Casaco,50
+34,Saia,96
+27,Pulseira,40
+45,Vestido,57
+32,Refrigerante,87
+25,Saia,70
+15,Casaco,43
+89,Tablet,24
+50,Pão,46
+8,Camiseta,100
+58,Tv,83
+7,Pão,4
+11,Feijão,29
+12,Limonada,96
+38,Sal,28
+90,Camiseta,21
+99,Saia,77
+81,Brincos,69
+64,Computador,75
+61,Sal,18
+82,Água c/ gás,49
+27,Camiseta,20
+88,Celular,17
+30,Colar,69
+9,Anel de Prata,87
+79,Vestido,46
+92,Leite,11
+89,Macarrão,51
+39,Tablet,58
+91,Tablet,42
+52,Camiseta,13
+85,Meias,28
+86,Vestido,51
+53,Feijão,36
+16,Casaco,33
+59,Camiseta,38
+49,Caixa de som,54
+10,Macarrão,14
+12,Limonada,9
+26,Anel de Ouro,82
+80,Sal,97
+84,Leite,51
+34,Camiseta,12
+32,Refrigerante,26
+23,Pulseira,71
+28,Água,87
+75,Refrigerante,15
+30,Tv,14
+70,Limonada,27
+39,Água c/ gás,32
+58,Vestido,88
+14,Caixa de som,60
+73,Anel de Ouro,64
+80,Feijão,60
+45,Computador,75
+42,Sal,93
+46,Tablet,22
+7,Meias,31
+36,Suco,83
+29,Água,38
+87,Leite,57
+3,Suco,80
+2,Caixa de som,62
+22,Computador,92
+87,Água c/ gás,81
+25,Anel de Prata,91
+22,Sal,52
+22,Feijão,32
+52,Limonada,13
+98,Sal,78
+67,Brincos,50
+19,Pulseira,89
+72,Vestido,30
+26,Pulseira,66
+89,Suco,28
+1,Água c/ gás,48
+1,Anel de Ouro,41
+57,Refrigerante,79
+78,Colar,68
+1,Computador,35
+5,Tv,1
+63,Vestido,74
+67,Feijão,65
+44,Água c/ gás,42
+6,Caixa de som,53
+63,Tv,86
+91,Suco,10
+29,Colar,96
+69,Feijão,6
+50,Camiseta,22
+86,Meias,26
+44,Tablet,88
+26,Computador,83
+84,Macarrão,26
+43,Água c/ gás,90
+68,Limonada,1
+57,Celular,63
+65,Tv,55
+2,Colar,67
+83,Água,9
+92,Macarrão,83
+100,Meias,79
+43,Leite,92
+17,Refrigerante,94
+76,Pulseira,9
+13,Saia,61
+12,Feijão,41
+69,Pão,24
+36,Macarrão,68
+23,Casaco,63
+26,Pulseira,2
+56,Água c/ gás,13
+38,Caixa de som,79
+54,Anel de Ouro,96
+37,Feijão,48
+61,Caixa de som,3
+7,Refrigerante,25
+54,Brincos,50
+74,Computador,84
+30,Sal,54
+10,Suco,11
+15,Caixa de som,26
+48,Macarrão,25
+41,Água,79
+36,Vestido,69
+93,Macarrão,74
+49,Leite,31
+11,Macarrão,26
+84,Pão,96
+41,Camiseta,15
+44,Tablet,46
+52,Feijão,86
+84,Casaco,100
+83,Água,27
+35,Brincos,9
+94,Água,74
+69,Refrigerante,93
+59,Computador,12
+17,Casaco,19
+65,Leite,31
+36,Casaco,78
+94,Vestido,47
+6,Vestido,1
+29,Tablet,80
+51,Celular,57
+100,Limonada,65
+70,Tv,41
+53,Macarrão,8
+22,Pão,22
+66,Brincos,23
+82,Água,17
+46,Camiseta,95
+7,Água,87
+28,Tablet,88
+14,Água c/ gás,12
+34,Meias,77
+98,Vestido,8
+55,Pão,39
+96,Anel de Ouro,27
+26,Pulseira,85
+14,Meias,68
+37,Celular,73
+37,Camiseta,21
+74,Camiseta,13
+15,Anel de Ouro,21
+18,Vestido,96
+85,Leite,30
+60,Computador,26
+58,Água c/ gás,17
+97,Limonada,12
+16,Macarrão,54
+77,Anel de Ouro,66
+1,Tv,99
+45,Saia,77
+77,Meias,24
+78,Casaco,61
+1,Tv,30
+35,Sal,2
+86,Tv,45
+91,Sal,2
+10,Casaco,72
+63,Macarrão,36
+59,Água c/ gás,87
+69,Caixa de som,72
+53,Casaco,11
+71,Leite,14
+56,Vestido,84
+20,Meias,34
+75,Feijão,86
+66,Água,80
+94,Colar,93
+44,Vestido,84
+71,Sal,6
+64,Sal,23
+61,Computador,74
+52,Brincos,63
+60,Tv,6
+6,Saia,51
+55,Pulseira,55
+95,Celular,78
+28,Tv,10
+11,Caixa de som,3
+35,Casaco,29
+53,Celular,39
+68,Casaco,4
+62,Colar,19
+69,Casaco,49
+98,Anel de Ouro,28
+77,Anel de Prata,71
+20,Celular,49
+47,Casaco,70
+17,Leite,81
+58,Anel de Prata,58
+8,Sal,81
+22,Meias,69
+64,Brincos,51
+40,Água,92
+81,Casaco,41
+40,Tablet,43
+53,Pulseira,35
+16,Brincos,78
